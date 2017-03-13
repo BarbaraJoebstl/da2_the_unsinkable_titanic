@@ -25,13 +25,14 @@ Following questions are answered in this project:
 
 ##Run
 You can run the .ipynb file with the [python notebook](https://ipython.org/notebook.html).
-Those libraries are used:
+Or simply take a look at the output [here](http://tschebee.net/exploring-survival-on-the-titanic/).
+
+##Data
+The data used is provided in this project with the titanic_data.csv.
+Those python libraries are used:
 - pandas
 - numpy
 - matplotlib
 - seaborn
-
-##Data
-The data used is provided in this project with the titanic_data.csv.
  
 
